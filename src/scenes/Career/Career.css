@@ -1,0 +1,33 @@
+@import "../../styles/App.css";
+
+.join-heading {
+  composes: text-size from "../../styles/App.css";
+  font-size: 22px;
+}
+
+.apply-box-outer {
+  padding: 0 30px;
+}
+
+.inline-display {
+  float: none !important;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.margin-btm-110 {
+  margin-bottom: 110px;
+}
+
+@media screen and (max-width: 767px) {
+  .join-heading {
+    font-size: 18px;
+    letter-spacing: normal !important;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .join-heading {
+    font-size: 16px;
+  }
+}

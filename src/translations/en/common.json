@@ -1,0 +1,196 @@
+{
+  "signupurl": "-en",
+  "White Paper": "White Paper",
+  "white-paper-link": "https://docsend.com/view/5zragmb",
+  "Developers": "Developers",
+  "Blog": "Blog",
+  "Team": "Team",
+  "Presale": "Presale",
+  "Software": "Software",
+  "Mainnet": "Mainnet",
+  "Testnet": "Testnet",
+  "Explorer": "Explorer",
+  "Mining": "Mining",
+  "Github": "Github",
+  "Disclaimer": "Disclaimer",
+  "Go Back": "Go Back",
+  "Form": "Form",
+  "Presale Form": "{{Presale}} {{Form}}",
+  "Privacy Policy": "Privacy Policy",
+  "Terms of Service": "Terms of Service",
+  "Careers": "Careers",
+  "Mailing List": "Mailing List",
+  "Contact": "Contact",
+  "Core": "Core",
+  "Core Team": "{{Core}} {{Team}}",
+  "Technology": "Technology",
+  "Core Technology": "{{Core}} {{Technology}}",
+  "Use_Case": "Use Case",
+  "Web_Miner": "Web Miner",
+  "Press": "Press",
+  "Use_Case_plural": "Use Cases",
+  "Advisor": "Advisor",
+  "Advisor_plural": "Advisors",
+  "Investor": "Investor",
+  "Investor_plural": "Investors",
+  "Join": "Join",
+  "Community": "Community",
+  "Join Community": "{{Join}} {{Community}}",
+  "Get Started": "Get Started",
+  "Read": "Read",
+  "Read White Paper": "{{Read}} {{White Paper}}",
+  "E-mail": "E-mail",
+  "Full Name": "Full name",
+  "Organization": "Organization",
+  "Org": "Organization",
+  "Fund Name": "Fund Name",
+  "Telegram": "Telegram",
+  "Join Telegram": "{{Join}} {{Telegram}}",
+  "Telegram name": "{{Telegram}} name",
+  "Twitter": "Twitter",
+  "Thank You!": "Thank You!",
+  "Yes": "Yes",
+  "No": "No",
+  "Submit": "Submit",
+  "ethernet-level encryption": "ethernet-level <1 /> encryption",
+  "Programmable Packets": "Programmable Packets",
+  "Branch Chains": "Branch Chains",
+  "Network Admin Apps": "Network Admin Apps",
+  "Dynamic Networks": "Dynamic Networks",
+  "Security Apps": "Security Apps",
+  "Chief Architect": "Chief Architect",
+  "Blockchain": "Blockchain",
+  "Blockchain_plural": "Blockchains",
+  "Networking": "Networking",
+  "Security": "Security",
+  "Platform": "Platform",
+  "Infrastructure": "Infrastructure",
+  "Operations": "Operations",
+  "System Administrator": "System Administrator",
+  "Project Manager": "Project Manager",
+  "Blockchain Advisor": "{{Blockchain}} {{Advisor}}",
+  "header": {
+    "tokens": "Tokens",
+    "lg": "English",
+    "lg-mobile": "EN",
+    "phishing": "<0><0>Don't get phished.</0> There is no announced token sale.</0> Beware of anyone claiming to sell Marconi tokens."
+  },
+  "banner": {
+    "header": "Smart Ethernet Protocol",
+    "description": "A new blockchain protocol using programmable <1 />packets to enhance connectivity, security, and <3 />privacy"
+  },
+  "hero": {
+    "cta-prompt": "Mainnet now available"
+  },
+  "coretech": {
+    "header": "The Marconi protocol is designed down to the ethernet level and powers a<1/> decentralized networking stack that provides connectivity, privacy, security and<3/> upgradability",
+    "ethernet": "Secure communication pipes established at Layer 2 of the OSI model provide packet-level encryption that’s more secure than just using SSL and TLS",
+    "packets": "Decentralized apps with direct access to network packets provide network administration and security functionality without expensive custom hardware",
+    "chains": "Branchable {{Blockchain}} enable the creation of new decentralized networks without traditional infrastructure that's controlled by just a few entities in any given region",
+    "learn": "Learn more about the Marconi Platform"
+  },
+  "usecases": {
+    "admin-apps": "Create administrative applications for network load balancing, changing network topology and IOT device management.",
+    "networks": "Rapidly deploy dynamic networks in battlefields and disaster recovery areas. Record network activity on a ledger for after action reviews.",
+    "security": "Create decentralized security apps like Anti-Phishing, Anti-Malware, Intrusion Prevention Systems and dVPNs."
+  },
+  "mailing-list": {
+    "title": "Get early access to the Marconi SDK and the latest product updates",
+    "interest": "why are you interested?",
+    "checkbox": "I want to receive product updates over email.",
+    "gdpr": "I understand the Marconi Foundation will store my information to send these updates. I have read the <1>Privacy Policy</1> and can opt out of receiving products or product updates by selecting an “unsubscribe” option through an e-mail message. Upon opting out, personal information will not be collected and any previously collected personal information will be deleted. ",
+    "confirmation": "I understand the Marconi Foundation will store my information to send these updates. I have read the Privacy Policy and can opt out of receiving products or product updates by selecting an “unsubscribe” option through an e-mail message. Upon opting out, personal information will not be collected and any previously collected personal information will be deleted.",
+    "welcome": "Welcome to the Marconi {{Community}}"
+  },
+  "team": {
+    "jong": "Bitcoin miner, {{Blockchain}} developer & investor since 2011. Founder of HashLayer (2014-15) - one of the first multi-{{Blockchain}} explorers. Led teams at Google that built networking technologies. CS from USC.",
+    "albert": "Developed security systems and cryptographic services to secure consumer and internal data at CreditKarma. Software Engineering - UWaterloo.",
+    "di": "Led engineering teams that created big data platforms at Credit Karma and Service Now. Previously, software engineer at tech giants like Microsoft and Intel. Software Engineering - UWaterloo.",
+    "terence": "Architected and led development of data center infrastructure at Google for scaling high density and wireless networks. Previously held engineering roles at Microsoft, Netscape and Yahoo. CS from UWaterloo.",
+    "peter": "{{Blockchain}} investor since 2014. Executive and management roles at startups and corporations like Zynga and Microsoft. Computer Engineering from UWaterloo, MBA from Wharton.",
+    "dohoon": "ZCash miner and early {{Blockchain}} adopter. Extensive experience with networking and infrastructure setup. BSc from UCSD.",
+    "sora": "Senior project manager on flagship products with 20M+ daily active users at Zynga, CNET and start ups.  BSc from UCD.",
+    "chris": {
+      "title": "Product & Marketing",
+      "bio": "Developed APIs and SDKs at Apple for Mac OS X and Objective-C. Led product teams and launched apps at startups like Dropbox. CS from UCSD and MBA from Wharton."
+      }
+  },
+  "advisors": {
+    "diffie": {
+      "title": "Public-Key Cryptographer",
+      "bio": "Father of public key encryption. Winner of the 2015 Turing Award, often referred to as the Nobel Prize of Computing, and other awards including Fellow of the Royal Society and member of National Academy of Engineering. Previously at Sun Microsystems as CSO."
+    },
+    "lixin": {
+      "title": "Professor at UMass",
+      "bio": "Professor of Electrical & Computer Engineering researching internet routing, network virtualization and cloud computing. Fellow of IEEE and Association of Computing Machinery for contributions to network protocols and internet routing. Ph.D from UMass."
+    },
+    "jay": {
+      "title": "CEO of Spoke",
+      "bio": "Co-founded Appurify - mobile platform (acquired by Google) and Spoke - workplace AI (backed by Greylock and Accel). Accomplished researcher with 2000+ IEEE & ACM citations and recipient of IBM Invention Achievement Award. EE from IIT, PhD from UI Urbana Champaign."
+    },
+    "joyce": {
+      "title": "ML & IOT Researcher",
+      "bio": "Pioneering researcher and author in machine learning comfort prediction using IOT. Previously, researcher in smart grids at Berkeley Labs. Awarded best paper for 2018 by industry journal  Building & Environment. Engineering from UWaterloo, PhD from UC Berkeley."
+    },
+    "tom": {
+      "title": "CSO of BitGo",
+      "bio": "Security expert and Chief Security Officer at Bitgo - leading {{Blockchain}} security platform and a pioneer of multi-sig technology. Previously, CSO at Neustar and DocuSign. MPA from Harvard."
+    },
+    "roger": {
+      "bio": "Experienced entrepreneur and {{Blockchain}} investor. Founding partner of NEO Global Capital and Webvisions - one of the largest Asian cloud hosting providers with 40,000+ clients."
+    },
+    "matthew": {
+      "title": "Co-Founder of Origin",
+      "bio": "Co-Founder of Origin - protocol for creating sharing economy marketplaces using Ethereum and IPFS. Backed by Pantera Capital. Previously at Google. EE and MS from Stanford."
+    },
+    "glenn": {
+      "title": "Serial Entrepreneur",
+      "bio": "Co-Founded PDI (studio that produced the <1>Shrek</1> and <3>Madagascar</3> series) and VanEdge Capital. CEO of DreamWorks Interactive. Advisor for corporations including Zynga & Citigroup."
+    },
+    "george": {
+      "title": "CEO of WeTrust",
+      "bio": "Co-Founder of WeTrust - {{Blockchain}} insurance platform backed by Vitalik Buterin, Bo Shen and Fenbushi Capital. Previously at Google and McKinsey. MS from Stanford."
+    }
+  },
+  "roadmap": {
+    "2018-december": "2018 December",
+    "2018-december-text": "Testnet Launch",
+    "2019-february": "2019 February",
+    "2019-february-text1": "Blockchain Network Security &",
+    "2019-february-text2": "Multi-Cloud Support",
+    "2019-march": "2019 March",
+    "2019-march-text": "Mining support",
+    "2019-may": "2019 May",
+    "2019-may-text": "Mainnet Launch",
+    "2019-october": "2019 October",
+    "2019-october-text": "Staking on Marconi subnetworks",
+    "2020": "2020",
+    "2020-text1": "Marconi Link, an extension to Marconi Pipe, designed",
+    "2020-text2": "to work with wireless",
+    "2021": "2021",
+    "2021-text1": "Networking metering to capture server availability",
+    "2021-text2": "and bandwidth contributions"
+  },
+  "presale": {
+    "header": "Due to the volume of interest we have been receiving, please fill out the following form so we can provide interested parties with updates when available.",
+    "header-bullet-1": "We have not announced a date for our presale.",
+    "header-bullet-2": "We have not announced any minimum, maximum, or any other requirements.",
+    "header-thanks": "Thank you for your support.",
+    "allocation-size": "Potential desired allocation size",
+    "allocation-abbr": "Desired allocation size",
+    "telegram": "Our Telegram channel is <1>MarconiProtocol</1>",
+    "telegram-member": "Are you a member?",
+    "twitter": "Our Twitter account is <1>@marconiprotocol</1>",
+    "twitter-follow": "Are you following us?",
+    "coinaddr": "ETH or BTC address",
+    "contribute": "How would you contribute to the Marconi {{Community}}?",
+    "disclaimer": "By submitting this form, I understand that I am not guaranteed, promised or otherwise permitted in any way to participate in the presale. I understand that the presale may not occur, and I will only be added to a list of potentially interested purchasers and will receive information about the presale if and when it is available. This form is not an offer to purchase Marcos or rights to Marcos and does not represent a binding commitment for any party to buy or sell any interests in Marcos. I also understand that my ETH/BTC address is provided for administrative purposes only and I will not receive any Marcos unless a definitive agreement is executed for such purchase and the Marco coins are developed and distributed. I understand the Marconi Foundation will store my information to send these updates. I have read the Privacy Policy and can opt out of receiving products or product updates by selecting an “unsubscribe” option through an e-mail message. Upon opting out, personal information will not be collected and any previously collected personal information will be deleted.",
+    "gdpr": "By submitting this form, I understand that I am not guaranteed, promised or otherwise permitted in any way to participate in the presale. I understand that the presale may not occur, and I will only be added to a list of potentially interested purchasers and will receive information about the presale if and when it is available. This form is not an offer to purchase Marcos or rights to Marcos and does not represent a binding commitment for any party to buy or sell any interests in Marcos. I also understand that my ETH/BTC address is provided for administrative purposes only and I will not receive any Marcos unless a definitive agreement is executed for such purchase and the Marco coins are developed and distributed.",
+    "thank-you": "<0>Thank you for subscribing. <2 />No additional action needs to be taken at this time.</0>"
+  },
+  "errors": {
+    "email-error": "Invalid email or email already exists",
+    "field-error": "Please fill in all the fields marked with *",
+    "blacklist-error": "Unfortunately, the presale is not available to purchasers in your country or jurisdiction."
+  }
+}

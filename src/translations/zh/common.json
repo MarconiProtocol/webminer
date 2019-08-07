@@ -1,0 +1,192 @@
+{
+  "signupurl": "-zh",
+  "White Paper": "白皮书",
+  "white-paper-link": "https://docsend.com/view/yezepjj",
+  "Developers": "开发人员",
+  "Blog": "博客",
+  "Team": "团队",
+  "Presale": "预售",
+  "Software": "软件",
+  "Mainnet": "主网",
+  "Testnet": "Testnet",
+  "Explorer": "区块链浏览器",
+  "Mining": "挖矿",
+  "Github": "Github",
+  "Disclaimer": "免责声明",
+  "Go Back": "返回",
+  "Form": "表格",
+  "Presale Form": "{{Presale}}{{Form}}",
+  "Privacy Policy": "隐私政策",
+  "Terms of Service": "服务条款",
+  "Careers": "工作机会",
+  "Mailing List": "邮寄列表",
+  "Contact": "联系方式",
+  "Core": "核心",
+  "Core Team": "{{Core}}{{Team}}",
+  "Technology": "技术",
+  "Core Technology": "{{Core}}{{Technology}}",
+  "Use_Case": "用例",
+  "Press": "新闻",
+  "Roadmap": "路线图",
+  "Advisor": "顾问",
+  "Investor": "投资者",
+  "Join": "加入",
+  "Community": "社区",
+  "Join Community": "{{Join}}{{Community}}",
+  "Get Started": "开始",
+  "Read": "读",
+  "Read White Paper": "{{Read}}{{White Paper}}",
+  "E-mail": "电子邮件地址",
+  "Full Name": "全名",
+  "Organization": "组织",
+  "Org": "组织",
+  "Fund Name": "基金名称",
+  "Telegram": "Telegram",
+  "Join Telegram": "{{Join}}{{Telegram}}",
+  "Telegram name": "{{Telegram}} 用户名",
+  "Twitter": "Twitter",
+  "Thank You!": "谢谢！",
+  "Yes": "是",
+  "No": "不是",
+  "Submit": "提交",
+  "ethernet-level encryption": "以太网级加密",
+  "Programmable Packets": "可编程的数据包",
+  "Branch Chains": "分支链",
+  "Network Admin Apps": "网络管理应用",
+  "Dynamic Networks": "动态网络",
+  "Security Apps": "安全应用",
+  "Chief Architect": "首席架构师",
+  "Blockchain": "区块链",
+  "Networking": "网络",
+  "Security": "安全",
+  "Platform": "平台",
+  "Infrastructure": "基础设施",
+  "Operations": "运营",
+  "System Administrator": "系统管理员",
+  "Project Manager": "项目经理",
+  "Blockchain Advisor": "{{Blockchain}}{{Advisor}}",
+  "header": {
+    "tokens": "代币",
+    "lg": "中文",
+    "lg-mobile": "中文",
+    "phishing": "<0><0>不要被网络钓鱼所害。</0>我们没有宣布任何Token销售。谨防声称销售Marconi Token的人。</0>"
+  },
+  "banner": {
+    "header": "智能以太网协议",
+    "description": "新的区块链协议，使用可编程的数据包提高连接性,<1 /> 安全性和私密性"
+  },
+  "hero": {
+    "cta-prompt": "主网现已上线"
+  },
+  "coretech": {
+    "header": "Marconi 协议采用向下延伸覆盖至以太网的设计，<1/>并且支持去中心化网络堆栈，从而提高私密性、<3/>安全性和升级能力。",
+    "ethernet": "在 OSI 模型第 2 层建立的安全通信管道提供数据包级加密，与仅使用 SSL 和 TLS 相比，提高了安全性",
+    "packets": "借助可以直接访问网络数据包的去中心化应用，无需昂贵的定制硬件，也可使用网络管理和安全功能",
+    "chains": "借助分支{{Blockchain}}，可以创建无需传统基础设施的全新去中心化网络，这些网络仅受指定区域的少数几个实体控制",
+    "learn": "详细了解 Marconi 平台"
+  },
+  "usecases": {
+    "admin-apps": "创建管理应用，以便平衡网络负载、更改网络拓扑结构和管理物联网设备",
+    "networks": "在战场和救灾环境中快速部署动态网络。在总账中记录网络活动，以便事后分析",
+    "security": "创建去中心化安全应用，例如反网络钓鱼、反恶意软件、入侵预防系统和动态 VPN"
+  },
+  "mailing-list": {
+    "title": "提前获得 Marconi SDK 和产品更新",
+    "interest": "为什么感兴趣？",
+    "checkbox": "我想接收产品信息的电子邮件",
+    "gdpr": "我了解 Marconi 基金会将存储我的信息以发送这些产品信息。我已阅读<1>隐私政策</1>。并可通过电子邮件选择 “取消订阅” 来退出接收新的产品信息。选择退出后，个人信息将不会被收集，任何以前收集的个人信息将被删除。",
+    "confirmation": "我了解 Marconi 基金会将存储我的信息以发送这些产品信息。我已阅读隐私政策，并可通过电子邮件选择 “取消订阅” 来退出接收新的产品信息。选择退出后，个人信息将不会被收集，任何以前收集的个人信息将被删除。",
+    "welcome": "欢迎来到 Marconi {{Community}}"
+  },
+  "team": {
+    "jong": "自 2011 年开始比特币挖矿，投资和研发{{Blockchain}}。HashLayer（2014-2015 年）创始人 - 首位多{{Blockchain}}探索系统。曾在 Google 负责领导研发网络技术的团队。毕业于南加州大学计算机科学专业。",
+    "albert": "开发了安全系统和加密服务，为 CreditKarma 的消费者和内部数据提供安全保护。毕业于滑铁卢大学软件工程专业。",
+    "di": "曾在 Credit Karma 和 Service Now 负责领导创建大数据平台的工程团队。之前曾就职于 Microsoft 和 Intel 等技术巨头，担任软件工程师。毕业于滑铁卢大学软件工程专业。",
+    "terence": "在谷歌构架并领导开发数据中心的基础设施，而提供高密度和无线网络的服务。曾经就职于Microsoft， Netscape和Yahoo。毕业于滑铁卢大学计算机科学专业。",
+    "peter": "自 2014 年开始投资{{Blockchain}}。曾在创业公司以及 Zynga 和 Microsoft 等大型公司担任执行和管理职务。曾就读于滑铁卢大学计算机工程专业，并获得了宾夕法尼亚大学沃顿商学院工商管理硕士学位。",
+    "dohoon": "ZCash 矿工和早期{{Blockchain}}采纳者。拥有丰富的网络和创建基础设施的经验。毕业于圣地亚哥大学本科学位。",
+    "sora": "高级项目经理，曾在Zynga，CNET和初创公司管理拥有2千万每日活跃用户的旗舰产品. 毕业于UCD大学。",
+    "chris": {
+      "title": "产品和市场 ",
+      "bio": "为 Apple 开发了适用于 Mac OS X 和 Objective-C 的 API 及 SDK。在 Dropbox 等创业公司领导产品团队并发布应用。曾就读于圣地亚哥大学计算机科学专业，并获得了沃顿商学院工商管理硕士学位。"
+    }
+  },
+  "advisors": {
+    "diffie": {
+      "title": "公钥密码员",
+      "bio": "公钥加密之父。获得了2015图灵奖，也被称作电脑业的诺贝尔奖。皇家学会和美国国家工程院的会员。曾在太阳计算机系统担当首席科学官。"
+    },
+    "lixin": {
+      "title": "麻省大学教授",
+      "bio": "电气电脑工程教授。研究互联网路由，网络虚拟化和云计算。IEEE和ACM会员。麻省大学博士。"
+    },
+    "jay": {
+      "title": "Spoke 首席执行官",
+      "bio": "共同创办了 Appurify - 移动平台（已被 Google 收购）和 Spoke - 工作场所人工智能（由 Greylock 和 Accel 提供支持）。在微处理器可靠性方面取得了突出的研究成果。曾就读于伊利诺伊理工学院电子工程专业，并获得了厄巴纳-尚佩恩大学博士学位。"
+    },
+    "joyce": {
+      "title": "机器学习和物联网研究员",
+      "bio": "具有开创精神的研究员，同时还编著了使用物联网进行机器学习舒适度预测。之前曾在伯克利实验室担任智能网格研究员。曾就读于滑铁卢大学工程专业，并获得了加利福尼亚大学伯克利分校博士学位。"
+    },
+    "tom": {
+      "title": "BitGo 首席安全官",
+      "bio": "Bitgo的安全专家兼首席安全官 - 领先的{{Blockchain}}安全平台和多重签名技术的先锋。曾在Neustar和DocuSign担任首席安全官。 曾就读于哈佛大学并获得公共管理硕士学位。"
+    },
+    "roger": {
+      "bio": "经验丰富的企业家和{{Blockchain}}投资者。联合创办了 NEO Global Capital 和 Webvisions。Webvisions 是亚洲最大的云托管提供商之一, 拥有4万多客户。"
+    },
+    "matthew": {
+      "title": "Origin 联合创办人",
+      "bio": "Origin 联合创办人 - 适用于创建使用以太坊和 IPFS 的共享经济市场的协议。由 Pantera Capital 主导。之前曾就职于 Google。曾就读于斯坦福大学的电子工程专业，并获得了理学硕士学位。"
+    },
+    "glenn": {
+      "title": "连续创业者",
+      "bio": "联合创办了 PDI（此工作室制作发行过 <1>Shrek</1> 和 <3>Madagascar</3> 等动画系列）和 VanEdge Capital。DreamWorks Interactive 首席执行官。在 Zynga 和 Citigroup 等公司担任顾问。"
+    },
+    "george": {
+      "title": "WeTrust 首席执行官",
+      "bio": "WeTrust 联合创办人 - {{Blockchain}}保障平台由 Vitalik Buterin、Bo Shen 和 Fenbushi Capital 提供支持。之前曾就职于 Google 和 McKinsey。获得了斯坦福大学理学硕士学位。"
+    }
+  },
+  "roadmap": {
+    "2018-december": "2018 十二月",
+    "2018-december-text": "试用网上线",
+    "2019-february": "2019 二月",
+    "2019-february-text1": "区块链网络安全 和",
+    "2019-february-text2": "多云支持",
+    "2019-march": "2019 三月",
+    "2019-march-text": "挖矿支持",
+    "2019-may": "2019 五月",
+    "2019-may-text": "主网上线",
+    "2019-october": "2019 十月",
+    "2019-october-text": "权益在Marconi网络上开始",
+    "2020": "2020",
+    "2020-text1": "Marconi link是Marconi",
+    "2020-text2": "Pipe的扩展，可以在无线网上使用",
+    "2021": "2021",
+    "2021-text1": "网络流量 测量 服务器运行时间",
+    "2021-text2": "和 带宽贡献"
+  },
+  "presale": {
+    "header": "由于我们收到了大量关注，因此，请填写下表，以便我们及时向相关各方提供最新动态。",
+    "header-bullet-1": "我们尚未宣布预售日期。",
+    "header-bullet-2": "我们也未宣布最低、最高或任何其他要求。",
+    "header-thanks": "感谢您的支持。",
+    "allocation-size": "可能需要的分配大小",
+    "allocation-abbr": "可能需要的分配大小",
+    "telegram": "我们的 Telegram 频道是 <1>MarconiProtocol</1>",
+    "telegram-member": "你是会员吗？",
+    "twitter": "我们的 Twitter 账户是 <1>@marconiprotocol</1>",
+    "twitter-follow": "你在关注我们吗？",
+    "coinaddr": "ETH 或 BTC 地址",
+    "contribute": "您将如何为 Marconi {{Community}}贡献力量？",
+    "disclaimer": "提交此表格即表示我知道并未获得可以参加预售的任何保证、承诺或许可。我知道预售可能不会发生，而且我将仅被添加到可能会关注的购买者名单中，并将会在预售信息发布时收到这些信息。此表格并非购买 Marco 或 Marco 权利的要约，也不代表任何方购买或销售任何 Marco 权益的约束性承诺。我也知道我提供的 ETH/BTC 地址仅用于管理目的，而且, 除非购买的最终协议被执行，Marco 也被开发和分发, 否则我不会收到任何 Marco。",
+    "gdpr": "提交此表格即表示我知道并未获得可以参加预售的任何保证、承诺或许可。我知道预售可能不会发生，而且我将仅被添加到可能会关注的购买者名单中，并将会在预售信息发布时收到这些信息。此表格并非购买 Marco 或 Marco 权利的要约，也不代表任何方购买或销售任何 Marco 权益的约束性承诺。我也知道我提供的 ETH/BTC 地址仅用于管理目的，而且, 除非购买的最终协议被执行，Marco 也被开发和分发, 否则我不会收到任何 Marco。",
+    "thank-you": "<0>谢谢您的订阅。您已完成了所有的步骤。感谢您的合作。</0>"
+  },
+  "errors": {
+    "email-error": "无效的邮件地址或邮件地址已存在",
+    "field-error": "请填写所有标有*的字段",
+    "blacklist-error": "很遗憾，未向您所在国家/地区或辖区的购买者开放预售。"
+  }
+}

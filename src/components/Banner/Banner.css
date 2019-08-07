@@ -1,0 +1,192 @@
+@import "../../styles/App.css";
+
+.outer-box {
+  position: relative;
+}
+
+.v-align {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.banner {
+  composes: no-padding from "../../styles/App.css";
+  display: table;
+  height: 557px;
+}
+
+.banner-heading {
+  font-size: 44px;
+  line-height: 46px;
+}
+
+.banner-heading-cn {
+  font-size: 50px;
+  line-height: 55px;
+}
+
+.banner-heading-kr {
+  font-size: 50px;
+  line-height: 55px;
+}
+
+.banner-text {
+  font-size: 18px;
+  line-height: 28px;
+  color: #1f191a;
+}
+
+.banner-text-cn {
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.banner-text-cn p span {
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.banner-text-kr p span {
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.banner-image, .banner-text {
+  display: inline-block;
+  vertical-align: middle;
+  float: none !important;
+  margin: 0 -2px;
+}
+
+.banner-text p {
+  margin: 0 0 10px;
+}
+
+.banner-text p span {
+  display: block;
+  font-size: 13px;
+  margin: 65px 0 0;
+}
+
+.banner-text .btn1, .banner-text .btn2 {
+  float: left;
+}
+
+.banner-text h1 {
+  margin: 0 0 20px;
+}
+
+.banner-text-cn p span {
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.banner-text .btn2 {
+  margin-left: 22px;
+}
+
+.content-box, .main-box {
+  float: left;
+  width: 100%;
+}
+
+.banner-image {
+  margin-top: -50px;
+}
+
+.banner-image img {
+  width: 100%;
+  max-width: 630px;
+  height: auto;
+}
+
+.banner-text {
+  padding-left: 20px;
+  padding-right: 0px;
+  padding-top: 10px;
+}
+
+.telegram::after {
+  display: inline-block;
+  content: '';
+  background: url('../../images/svg/telegram-blue.svg');
+  background-size:cover;
+  width:16px;
+  height:16px;
+  line-height: 14px;
+  margin-left:5px;
+}
+
+.telegram:hover::after {
+  transition: all ease-in-out 0.2s;
+  -webkit-transition: all ease-in-out 0.2s;
+  -moz-transition: all ease-in-out 0.2s;
+  -ms-transition: all ease-in-out 0.2s;
+  -o-transition: all ease-in-out 0.2s;
+  display: inline-block;
+  content: '';
+  background: url('../../images/svg/telegram-white.svg');
+  background-size:cover;
+  width:16px;
+  height:16px;
+  line-height: 14px;
+  margin-left:5px;
+}
+
+@media screen and (max-width: 1199px) {
+  .banner-image img {
+    width: 100%;
+    max-width: 690px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .banner {
+    height: auto;
+    padding: 50px 2%;
+  }
+  .banner-image {
+    margin-top: 20px;
+  }
+  .banner-text .btn1, .banner-text .btn2 {
+    float: none;
+    display: block;
+    margin: 0 auto 10px;
+    width: 236px;
+  }
+  br {
+    display: none
+  }
+  .banner-text {
+    text-align: center;
+    padding-left: 0;
+  }
+  .banner-text p span {
+    margin: 40px 0 0;
+  }
+  .banner-heading {
+    font-size: 38px;
+    line-height: 40px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .banner-heading, h1 {
+    font-size: 34px;
+    line-height: 40px;
+    font-weight: 500;
+  }
+  .banner {
+    padding: 50px 2%;
+    text-align: center;
+  }
+  .banner-text p span {
+    margin-top: 30px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .banner-heading {
+    font-size: 30px;
+  }
+}

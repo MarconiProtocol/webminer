@@ -1,0 +1,172 @@
+.progress-bar-label {
+    font-size: 13px;
+    font-family: Comfortaa, Georgia, serif;
+    font-weight: bold;
+    color: #5d5d5d;
+}
+
+.progress-bar-container {
+    display: flex;
+    align-items: center;
+    height: 45px;
+    border-radius: 30px;
+    padding: 0 18px;
+    border: 1px dashed #e1e1e1;
+}
+
+.progress-bar {
+    border-radius: 3px;
+    margin-left: 34px;
+    margin-right: 20px;
+    height: 6px;
+    flex-grow: 1;
+    background-color: #eef4fb;
+    position: relative;
+    align-items: center;
+    display: flex;
+}
+
+.progress-bar-progress {
+    content: '';
+    position: absolute;
+    height: 6px;
+    background-color: #2859be;
+    border-radius: 3px;
+}
+
+.progress-bar-bullet {
+    content: '';
+    border-radius: 100%;
+    width: 16px;
+    height: 16px;
+    border: 2px solid #fff;
+    background-color: #2859be;
+    position: absolute;
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, .25);
+}
+
+.progress-value {
+    font-size: 13px;
+    font-weight: bold;
+    color: #2859be;
+    font-family: Comfortaa, Georgia, serif;
+}
+
+.c-value {
+    font-family: Comfortaa, Georgia, serif;
+    color: #2859be;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 50px;
+    margin-bottom: 10px;
+}
+
+.c-label {
+    color: #211c1c;
+    font-size: 30px;
+    font-family: Comfortaa, Georgia, serif;
+    font-weight: 400;
+}
+
+.c-image {
+    min-height: 90px;
+    height: 90px;
+    margin-bottom: 45px;
+}
+
+.info-card {
+    padding: 20px 30px;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+.minimal-info-card {
+    padding: 20px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.minimal-info-label {
+    font-size: 20px;
+    color: #211c1c;
+    font-weight: 400;
+    font-family: Comfortaa, Georgia, serif;
+}
+
+.minimal-info-value {
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Comfortaa, Georgia, serif;
+    color: #2859be;
+}
+
+.faq-container {
+    margin-top: 120px;
+}
+
+@media (min-width: 768px) {
+    .c-image {
+        height: 90px;
+        min-height: 90px;
+        margin-right: 0;
+    }
+
+    .minimal-info-card {
+        padding: 20px 30px;
+        margin-bottom: 0;
+    }
+
+    .minimal-info-value {
+        font-size: 24px;
+    }
+
+    .minimal-info-label {
+        font-size: 18px;
+    }
+
+    .info-card {
+        padding: 25px 30px;
+        margin-bottom: 0;
+    }
+}
+
+@media (min-width: 1024px) {
+    .c-image {
+        min-height: 115px;
+        height: 115px;
+        margin-bottom: 0;
+        margin-right: 10%;
+    }
+
+    .minimal-info-card {
+        padding: 30px 30px;
+    }
+
+    .minimal-info-value {
+        font-size: 30px;
+    }
+    .minimal-info-label {
+        font-size: 20px;
+    }
+
+    .info-card {
+        padding: 50px 30px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .c-image {
+        margin-bottom: 0;
+        margin-right: 20%;
+    }
+
+    .minimal-info-card {
+        padding: 30px 70px;
+    }
+
+    .info-card {
+        padding: 50px 70px;
+    }
+}
