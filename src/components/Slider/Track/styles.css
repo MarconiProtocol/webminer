@@ -1,0 +1,10 @@
+.progress-bar-track {
+    position: absolute;
+    height: 6px;
+    background-color: #2859be;
+    border-radius: 3px;
+    width: 100%;
+    z-index: 1;
+    cursor: pointer;
+    transform: translate(0%, -50%);
+}

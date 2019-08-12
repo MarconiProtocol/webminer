@@ -1,0 +1,16 @@
+.rail-inner, .rail-outer {
+    position: absolute;
+    transform: translate(0%, -50%);
+    width: 100%;
+    height: 6px;
+    border-radius: 3px;
+}
+
+.rail-outer {
+    cursor: pointer;
+}
+
+.rail-inner {
+    pointer-events: none;
+    background-color: #eef4fb;
+}
