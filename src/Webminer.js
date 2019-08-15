@@ -5,8 +5,8 @@ import ic_play from './assets/icons/ic-play.png';
 import ic_pause from './assets/icons/ic-pause.png';
 import ic_cpu from './assets/icons/ic-cpu.png';
 
-import hash_img from './assets/hash-img.png';
-import rate_img from './assets/rate-img.png';
+import hash_img from './assets/hash-img.svg';
+import rate_img from './assets/rate-img.svg';
 
 import './styles/App.css';
 import SectionTitle from "./components/SectionTitle";
